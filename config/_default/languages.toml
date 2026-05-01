@@ -1,0 +1,7 @@
+[zh]
+  label = "中文"
+  title = "我的博客"
+  weight = 1
+
+  [zh.params.sidebar]
+    subtitle = "写代码，记生活"

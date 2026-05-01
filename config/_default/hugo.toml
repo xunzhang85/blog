@@ -1,0 +1,18 @@
+baseURL = "https://example.com"
+locale = "zh-cn"
+defaultContentLanguage = "zh"
+title = "我的博客"
+theme = "stack"
+hasCJKLanguage = true
+
+[pagination]
+  pagerSize = 5
+
+[permalinks]
+  post = "/p/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

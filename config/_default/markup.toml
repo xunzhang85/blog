@@ -1,0 +1,9 @@
+[goldmark]
+  [goldmark.renderer]
+    unsafe = true
+
+[highlight]
+  codeFences = true
+  guessSyntax = true
+  lineNos = false
+  style = "dracula"
