@@ -64,12 +64,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-``
-
-5. 点 **Commit changes**
-
----
-
-然后去 **Settings → Pages → Source** 选 **GitHub Actions**。
-
-等 1-2 分钟构建完成，访问：
